@@ -1,5 +1,5 @@
 # MORSENET-The-Encrypted-and-Wireless-Morse-Messaging-using-Queue-Implementation
-# MORSENET – The Encrypted and Wireless Morse Messaging using Queue Implementation
+
 
 🔐 A secure, real-time Morse code communication system built on ESP32, using embedded C and Queue concepts for efficient messaging.
 
